@@ -12,8 +12,8 @@ Este repositorio contiene el proyecto final de la materia **Base de Datos 1** en
   - `Enunciado-Trabajo-Practico-Integrador---BD-I---RecomendAI.pdf`: Archivo PDF con la consigna del trabajo.
 
 ## Uso
-1. Carga el archivo `RecomendAI-DDL.sql` en tu base de datos para generar las tablas.
-2. Ejecuta las consultas del archivo `RecomendAI-BDD.sql` para obtener las soluciones.
+1. Cargá el archivo `RecomendAI-DDL.sql` en tu base de datos para generar las tablas.
+2. Ejecutá las consultas del archivo `RecomendAI-BDD.sql` para obtener las soluciones.
 
 ## Autor
 Creado por Gabriela Leveratto. Este proyecto se desarrolló como parte de la asignatura **Base de Datos 1** de la Tecnicatura en Desarrollo Web de la Universidad Nacional de La Matanza.
